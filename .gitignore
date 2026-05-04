@@ -1,0 +1,11 @@
+.qt/
+.rcc/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+MemoRe
+build/
+cmake_install.cmake
+compile_commands.json
+meta_types/
+qmltypes/
